@@ -1,12 +1,9 @@
-import React, { useState } from 'react';
+{/*import React, { useState } from 'react';
 import * as yup from 'yup'
 const Form = () => {
-  const [formData, setFormData] = useState(
-    {/*name: '', email: '', phone: '', address: '',
-    city: '', gender: '', occupation: '', message: ''*/}
-  );
+  const [formData, setFormData] = useState();/*}
 
-  const handleChange = (e) => {
+  {/*const handleChange = (e) => {
     const { name, value } = e.target;
     setFormData({ ...formData, [name]: value });
   };
@@ -95,4 +92,4 @@ const Form = () => {
   );
 };
 
-export default Form
+export default Form */}
