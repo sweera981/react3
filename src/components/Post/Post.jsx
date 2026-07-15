@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+{/*import { useState, useEffect } from 'react';
 import axios from 'axios';
 
 const Post = () => {
@@ -77,4 +77,4 @@ const Post = () => {
   );
 };
 
-export default Post
+export default Post*/}
